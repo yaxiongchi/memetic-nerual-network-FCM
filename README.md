@@ -16,3 +16,5 @@ Individuals.txt
 由工程Generate-time-series-using-FCM产生下述两个txt
 Network.txt
 TimeSequence.txt
+
+Code needs to be further improved for readability.
